@@ -1,0 +1,9 @@
+HW WK3: GitBash
+pwd = print working directory
+ls = list files and folders inside the current directory
+cd = change directory
+clear = clears screen
+cd .. = go back one directory
+mkdir = make directory
+touch = makes a new directory
+rm = deletes file (never use in the root directory!)
